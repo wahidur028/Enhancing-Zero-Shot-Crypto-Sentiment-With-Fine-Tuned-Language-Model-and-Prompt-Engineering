@@ -1,6 +1,6 @@
 # Enhancing-Zero-Shot-Crypto-Sentiment-With-Fine-Tuned-Language-Model-and-Prompt-Engineering
 
-[**Rahman S M Wahidur**](https://scholar.google.com/citations?user=0_GwJz4AAAAJ&hl=en&oi=ao)
+[**Rahman S M Wahidur**](https://scholar.google.com/citations?user=0_GwJz4AAAAJ&hl=en&oi=ao), [**Ishmam Tashdeed**](https://scholar.google.com/citations?user=kSs1cTgAAAAJ&hl=en), [**Manjit Kaur**](https://scholar.google.com/citations?user=MH0QnMwAAAAJ&hl=en), [**Heung-No Lee**](https://scholar.google.com/citations?user=lRlN_40AAAAJ&hl=en)
 
 
 ## Abstract
