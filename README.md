@@ -8,20 +8,23 @@ Blockchain technology has revolutionized the financial landscape, witnessing wid
 
 <img src="images/Propose_diagram_color.png" width="1280px" height="720px" />
 
+## Dataset
 
-Robustness Evaluation Metrics
+| Description                           | Volume  | Percentage  |
+|---------------------------------------|---------|-------------|
+| All tweets                            | 14,091  | 100.00%     |
+| Positive label                        | 7,331   | 52.03%      |
+| Negative label                        | 6,760   | 47.97%      |
+| Neo dataset                           | 12,000  | 85.16%      |
+| Bitcoin sentiment dataset             | 1,029   | 7.30%       |
+| Reddit dataset                        | 562     | 3.99%       |
+| Cryptocurrency sentiment dataset      | 500     | 3.55%       |
 
-Quick Start
 
-Installation
+## Results
 
-Dataset
-
-Experiment
-
-Data Analysis
-
-Acknowledgment
+The results compare the zero-shot performance of untuned, supervised, and instruction-based fine-tuned models on unseen tasks (left image) and analyze the performance of untuned and instruction-based fine-tuned models across various prompts (right image).
+<img src="images/results.png"/>
 
 ## Citation
 
