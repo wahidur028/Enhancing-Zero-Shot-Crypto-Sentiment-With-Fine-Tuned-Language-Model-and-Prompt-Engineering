@@ -20,6 +20,17 @@ Blockchain technology has revolutionized the financial landscape, witnessing wid
 | Reddit dataset                        | 562     | 3.99%       |
 | Cryptocurrency sentiment dataset      | 500     | 3.55%       |
 
+## Prompt Engineering
+
+| Type             | Prompt                                                                                          |
+|------------------|-------------------------------------------------------------------------------------------------|
+| **Shot and simple** | *Please detect the sentiment.*                                                                  |
+|                  | *Detect the sentiment of the text.*                                                              |
+|                  | *Please detect the sentiment of the given text.*                                                 |
+| **Long and complex** | *Classify the sentiment of the provided cryptocurrency-related social media posts or messages.* |
+|                  | *Determine the emotional tone of the given text, which primarily revolves around cryptocurrencies and their associated concepts.* |
+|                  | *Categorize the sentiment expressed in the provided dataset consisting of the text snippets related to cryptocurrency and computer science, focusing on capturing positive or negative sentiments.* |
+
 
 ## Results
 
